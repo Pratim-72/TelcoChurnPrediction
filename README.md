@@ -28,4 +28,12 @@ If users need to configure something related to this new item, explain the confi
 Include any relevant screenshots, images, or code examples to illustrate the new item.
 
 ```javascript
-// Provide code examples here if needed
+// https://brittanychiang.com/
+
+Sounds
+RCP Tones
+Emoji Sounds
+Soundkit
+MotionSound
+DaFont
+WordMark.it
